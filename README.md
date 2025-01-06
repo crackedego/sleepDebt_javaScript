@@ -1,2 +1,4 @@
 # sleepDebt_javaScript
-Codecademy Sleep Debt Calculator
+Source: Codecademy
+Course: Learn JavaScript
+Project: Sleep Debt Calculator
